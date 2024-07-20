@@ -1,3 +1,5 @@
-This is a door
-This is a chair
-This is a table
+My first commit statement
+Second commit my statement
+Third red commit statfmnhsg
+My fourth commit
+My fifth commit
