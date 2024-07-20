@@ -1,0 +1,9 @@
+What is the use of this commands:
+ls
+passwd
+cat
+Discuss the following terms:
+kernel
+shell
+Types of shell
+Analyze the various options of ls
