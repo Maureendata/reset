@@ -1,6 +1,0 @@
-This is a first commit statement
-This is a second commit statement
-Third red commit 
-My fourth commit
-My fifth commit
-
